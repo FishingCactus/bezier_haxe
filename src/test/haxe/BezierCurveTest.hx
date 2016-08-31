@@ -1,4 +1,5 @@
-import bezier.*;
+import beziercurve.BezierCurve;
+import beziercurve.Vector3;
 
 class BezierCurveTest extends haxe.unit.TestCase {
     public function testGetPercentageAtFast() {

@@ -1,4 +1,4 @@
-package bezier;
+package beziercurve;
 
 class BezierCurve {
 
