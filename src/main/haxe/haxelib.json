@@ -1,0 +1,13 @@
+{
+  "name": "Bezier curve",
+  "url" : "https://github.com/nuclearcookie/bezier_haxelib/",
+  "license": "MIT",
+  "tags": ["cross", "bezier", "curve", "segment"],
+  "description": "A flexible bezier curve implementation",
+  "version": "1.0.0",
+  "classPath": "bezier/",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["Pieter Vantorre"],
+  "dependencies": {
+  }
+}

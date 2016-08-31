@@ -1,0 +1,5 @@
+#-lib bezier_curve
+-cp src/main/haxe
+-cp src/test/haxe
+-js target/bezier.js
+-main Main
