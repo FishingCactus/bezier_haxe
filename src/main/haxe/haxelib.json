@@ -1,12 +1,12 @@
 {
   "name": "beziercurve",
   "url" : "https://github.com/FishingCactus/bezier_haxe/",
-  "license": "",
+  "license": "MIT",
   "tags": ["cross", "bezier", "curve", "segment"],
   "description": "A flexible bezier curve implementation",
   "version": "1.0.0",
   "releasenote": "Initial release, everything is working correctly.",
-  "contributors": ["Pieter Vantorre"],
+  "contributors": ["NuclearCookie"],
   "dependencies": {
   }
 }
