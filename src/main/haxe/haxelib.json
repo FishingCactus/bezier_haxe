@@ -4,8 +4,8 @@
   "license": "MIT",
   "tags": ["cross", "bezier", "curve", "segment"],
   "description": "A flexible bezier curve implementation",
-  "version": "1.0.0",
-  "releasenote": "Initial release, everything is working correctly.",
+  "version": "1.0.1",
+  "releasenote": "Operators for Vector3. Cleaner code in BezierCurve.",
   "contributors": ["NuclearCookie"],
   "dependencies": {
   }
